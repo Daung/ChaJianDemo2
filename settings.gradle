@@ -1,0 +1,4 @@
+include ':yb'
+include ':PlguinService'
+include ':app'
+rootProject.name = "ChaJianDemo"
